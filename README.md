@@ -6,7 +6,7 @@
 
 Este laboratorio explora la probabilidad empírica mediante simulación estadística. El objetivo es comprender cómo surge el comportamiento probabilístico a partir de la experimentación repetida y cómo convergen las expectativas teóricas con los resultados simulados.
 
-El proyecto demuestra principios estadísticos fundamentales como la Ley de los Grandes Números y la variabilidad en los procesos aleatorios.
+El laboratorio demuestra principios estadísticos fundamentales como la Ley de los Grandes Números y la variabilidad en los procesos aleatorios.
 
 ## Objetivos
 - Analizar la probabilidad empírica mediante simulación.
